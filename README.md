@@ -1,5 +1,5 @@
 # TradeShift
-Code assignmnt
+Code assignment
 
 Solution to the triangle type assignment. 
 
